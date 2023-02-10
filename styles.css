@@ -11,3 +11,15 @@ li {
     font-size: 20px;
     color: rgb(50, 5, 5);
 }
+
+/* --styles dev-Miguel-- */
+
+.container-footer {
+    width: 100%;
+    color: antiquewhite;
+    background-color: #6d0909;
+    padding: 3rem 0 3rem 0;
+    display: flex;
+    justify-content: center;
+}
+/* --styles dev-Miguel-- */
